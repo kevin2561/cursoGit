@@ -1,5 +1,3 @@
 Curso de git y github 2023 y se llama  01
 
-
-
-git y mas en www.....
+prueba de la nueva rama 
